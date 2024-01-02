@@ -4,9 +4,21 @@
 
 This document provides REST API specifications and examples for the TmdbRestApi project.
 
+## Deployment Information
 
-POST http://127.0.0.1:8000/movies/create - add a new record
-GET  http://127.0.0.1:8000/movies/<imdb_id>or<tmdb_id> - return
+This project has been deployed on the Oracle Cloud server. Here are the details for accessing and testing the API:
+
+**Server Address**: http://192.9.228.196:8000
+
+### Access Credentials
+
+- **Username**: cm3035
+- **Password**: uol
+
+Please use these credentials to access and test the various API endpoints. Tools such as Postman or curl can be used for making API requests.
+
+POST http://192.9.228.196:8000//movies/create - add a new record
+GET  http://192.9.228.196:8000//movies/<imdb_id>or<tmdb_id> - return
 
 ### Endpoints
 
