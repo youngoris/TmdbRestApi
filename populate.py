@@ -12,11 +12,12 @@ django.setup()
 
 from tmdbData.models import Movies, Actor, Director, Genre, IMDBEntry
 
-data_movies = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), 'TmdbRestApi/csv/tmdb_9999_popular_movies_database.csv')
-data_directors = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), 'TmdbRestApi/csv/directors_to_imdb_id.csv')
-data_genres = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), 'TmdbRestApi/csv/genres_id.csv')
-data_casts = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), 'TmdbRestApi/csv/tmdb_id_to_casts.csv')
-data_movie_genres = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), 'TmdbRestApi/csv/tmdb_id_to_genres.csv')
+data_movies = os.path.join(os.path.dirname(__file__), 'csv/tmdb_9999_popular_movies_database.csv')
+data_directors = os.path.join(os.path.dirname(__file__), 'csv/directors_to_imdb_id.csv')
+data_genres = os.path.join(os.path.dirname(__file__), 'csv/genres_id.csv')
+data_casts = os.path.join(os.path.dirname(__file__), 'csv/tmdb_id_to_casts.csv')
+data_movie_genres = os.path.join(os.path.dirname(__file__), 'csv/tmdb_id_to_genres.csv')
+
 
 # Initialize sets for tracking and lists for bulk_create
 actors_set = set()

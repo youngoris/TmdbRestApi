@@ -1,0 +1,360 @@
+director_id,name,birthYear,deathYear,primaryProfession,knownForTitles
+nm0003235,Julian Keith Loren,1969,\N,director,tt0221400
+nm0009420,Daniel Absil,1937,\N,director,"tt0176997,tt0341901,tt1068866"
+nm0013837,Morteza Ahadi,1963,\N,director,"tt0269849,tt2700240"
+nm0023039,Gil Altschul,1921,1982,director,"tt0257412,tt0258314"
+nm0024767,Edward Amet,1860,1948,director,"tt0229265,tt0229360,tt0229399"
+nm0025027,Aslam Amlani,1971,\N,director,tt0166177
+nm0027975,Metodi Andonov,1932,1974,director,"tt0169618,tt0169958,tt0170313,tt0068814"
+nm0028345,Natalya Andreychenko,1966,\N,director,tt0111150
+nm0030740,Zsuzsa Antala,1968,\N,director,"tt0169975,tt0155416"
+nm0030787,Daril Anthes,1966,\N,director,"tt0278049,tt0382313,tt0330927,tt0221388"
+nm0031643,Lino António,1927,1996,director,tt0035077
+nm0033482,Özcan Arca,1943,\N,director,"tt20771748,tt0282000,tt30458273,tt5013214"
+nm0041705,Ellen Auerbach,1906,2004,director,"tt12187596,tt0230698"
+nm0045072,Hanumappa Vishwanath Babu,1903,1968,director,"tt0154405,tt0154747,tt0154712,tt0154228"
+nm0045943,Sarvottam Badami,1910,2005,director,"tt0155246,tt0155091,tt0155162,tt0154751"
+nm0047433,Patrick Bailey,1947,\N,director,tt0087166
+nm0049456,Sabin Balasa,1932,2008,director,"tt0145772,tt0145754,tt0141977,tt0172951"
+nm0051204,Christiane Balthasar,1970,\N,director,"tt0240719,tt7928662,tt13780692,tt0806910"
+nm0052331,Jyotish Bannerjee,1887,\N,director,"tt0155163,tt0154854,tt0154718,tt0154839"
+nm0058382,Gabriel Barta,1923,1972,director,"tt0237357,tt0172223,tt0237146,tt0237536"
+nm0059399,Nip Barua,1925,1992,director,"tt0155813,tt14018662,tt0156067,tt0156140"
+nm0060424,Txabi Basterretxea,1954,2010,director,"tt0276226,tt0496176"
+nm0063052,Frank Goodenough Bayly,1873,1923,director,"tt0195114,tt0333797"
+nm0063313,Yakov Bazelyan,1925,1990,director,"tt1512865,tt5214312,tt0335515,tt0165923"
+nm0066875,Joseph Behar,1926,2021,director,"tt0044262,tt0058796,tt0247869,tt0056758"
+nm0080286,Harishchandra Sakharam Bhatavdekar,1868,1958,director,"tt0273438,tt0156186,tt0156019,tt0155850"
+nm0084707,Libero Bizzarri,1926,1986,director,"tt27871269,tt0173616,tt0173858,tt0187300"
+nm0084786,Vera Belogrlic,1926,2015,director,"tt0324903,tt0324899,tt0324839,tt0324803"
+nm0089353,Marcel Blossoms,1904,1965,director,"tt0190516,tt0172501"
+nm0092924,Raymond Boley,1915,2003,director,tt0210222
+nm0097566,Francesco Bortolini,1943,2016,director,"tt0086363,tt0168675,tt0089278"
+nm0097866,Chitta Bose,1907,1993,director,"tt0212935,tt0156395,tt0049643,tt0156988"
+nm0102296,Mark Boyle,1934,2005,director,"tt0064084,tt1528548"
+nm0111299,Konstantin Bromberg,1939,2020,director,"tt0073833,tt0078673,tt0412655,tt0083730"
+nm0121417,Yacob Burgiu,1941,2003,director,"tt27430880,tt0266368,tt0352303,tt0352249"
+nm0123907,Linda Joy Busby,1950,1984,director,tt0272702
+nm0124936,H.B. Butler,1904,1991,director,tt0062110
+nm0128249,C. Ernest Cadle,1886,1944,director,"tt0017721,tt10809810"
+nm0129340,Andrei Calarasu,1922,2014,director,"tt0154134,tt0180159,tt0183665,tt0175289"
+nm0129699,David N. Caldwell,1933,2000,director,"tt0078676,tt0923475"
+nm0130706,Virgil Calotescu,1928,1991,director,"tt0187446,tt0077120,tt0062316,tt0068878"
+nm0136650,Jose Cardoso,1930,2013,director,"tt0094246,tt0125688,tt0125758"
+nm0139912,Lawrence Carra,1909,2006,director,"tt0042138,tt0085176"
+nm0141225,Dick Carson,1929,2021,director,"tt0058805,tt0062556,tt0055691,tt0072584"
+nm0149271,Emil Chaberski,1891,1967,director,"tt0030330,tt0032163,tt0151089"
+nm0151543,Raja Chandrasekhar,1904,1971,director,"tt0157330,tt0157332,tt0158138,tt0158178"
+nm0154206,Kartick Chattopadhyay,1912,1989,director,"tt0144023,tt0143559,tt0158022,tt0157726"
+nm0155892,Nedelcho Chernev,1923,2000,director,"tt0238343,tt0238439,tt0330650,tt0348578"
+nm0157373,Liviu Ghigort,1925,1979,director,tt0137155
+nm0159000,Tom Chomont,1942,2010,director,"tt13249888,tt13249874,tt13618324,tt8789206"
+nm0167240,Claire Clouzot,1933,2020,director,"tt0368478,tt0217018,tt3146022,tt0082523"
+nm0167727,Nell Cobar,1916,1993,director,"tt0173576,tt0172408,tt0172159,tt0172809"
+nm0181361,Jayne Cortez,1934,2012,director,"tt0196277,tt0230985,tt0084514,tt0089742"
+nm0187521,Manuel Granjeiro Crespo,1940,1983,director,"tt0063542,tt0077998"
+nm0191592,Mark Cullingham,1941,1995,director,"tt0176357,tt0202179,tt0066637,tt0165592"
+nm0195270,Grazio D'Angelo,1932,2023,director,"tt0375503,tt1171896,tt0401958,tt0358790"
+nm0196988,Mik Dahl-Mikkelsen,1915,1982,director,"tt0169899,tt0169898"
+nm0200493,Boyan Danovski,1899,1976,director,tt0278098
+nm0201401,Roy Darling,1884,1956,director,"tt0346840,tt0276305"
+nm0207198,Marcel De Backer,1921,1990,director,tt0220707
+nm0207296,Archie de Bear,1889,1970,director,"tt0152128,tt0181260"
+nm0209558,Jacques Lasseyne,1888,1944,director,"tt0013620,tt0011594"
+nm0220846,V.C. Desai,1913,1946,director,"tt0213945,tt0214156,tt0031888,tt0213946"
+nm0223267,Ralph Dewsbury,1882,1959,director,"tt0202975,tt0327811,tt0348400,tt0195785"
+nm0229794,Petar Dobrinovic,1853,1923,director,tt0269972
+nm0231060,Anatoli Dolinov,1869,1945,director,tt0009750
+nm0231608,Jean Dominique,1930,2000,director,"tt0377031,tt0055968,tt0270116"
+nm0232379,Dumitru Done,1923,2015,director,"tt0139540,tt0172411"
+nm0245878,Yan B. Dyl,1887,1944,director,tt0191909
+nm0250864,Harry Eggart,1938,2017,director,"tt0062595,tt0044265,tt0043229,tt0057731"
+nm0250873,Viking Eggeling,1880,1925,director,tt0015384
+nm0255915,Robert Elwyn,1911,1975,director,"tt0042202,tt14127744,tt0240554"
+nm0260703,Jean d' Esme,1883,1966,director,"tt0169967,tt0158933"
+nm0267566,Ferenc Farkas,1879,1933,director,tt0241191
+nm0269807,Sibtain Fazli,1916,1985,director,"tt0214578,tt0214579,tt0150422,tt0214801"
+nm0270217,Valeri Fedosov,1947,\N,director,"tt1503136,tt0307624,tt0189944,tt1503091"
+nm0270572,Emmet Feigenberg,1954,\N,director,"tt14540488,tt6393984,tt0217607,tt0213350"
+nm0272918,Sérgio Fernandes,1946,\N,director,tt0081141
+nm0273986,José Antonio Ferrara,1927,2023,director,"tt0222597,tt0823900,tt0475916,tt0362367"
+nm0274179,John Ferraro,1946,2010,director,"tt0118268,tt0363338,tt7013338,tt0063951"
+nm0279068,Nina Fischer,1965,\N,director,"tt1159708,tt0215909"
+nm0284461,Zoya Fomina,1924,1999,director,"tt0141851,tt0483223,tt0175262"
+nm0285092,Jean Fonteyne,1899,1974,director,"tt0281940,tt0281620"
+nm0291438,Harry L. Franklin,1880,1927,director,"tt0182680,tt0009665,tt0010955,tt0009817"
+nm0295925,Allen Fristoe,1924,2008,director,"tt0048860,tt0057731,tt0062595,tt0048845"
+nm0299348,Osamu Fushimizu,1910,1942,director,"tt3345920,tt0440881,tt0126104,tt0174190"
+nm0299930,Ram Narayan Gabale,1914,2009,director,"tt3689290,tt0215303,tt0214625,tt0214818"
+nm0300962,Charles Gagnon,1934,2003,director,tt0194843
+nm0308747,Oliver Garver,1900,1952,director,tt0185365
+nm0310424,Vadim Gauzner,1933,1982,director,"tt0170117,tt0072381,tt0069122,tt0082632"
+nm0313223,Ernest Genval,1884,1945,director,"tt0258570,tt0264142,tt0263326,tt0264485"
+nm0315801,Lino Lionello Ghirardini,1924,2004,director,"tt0172221,tt0172981,tt0172703,tt0172212"
+nm0317328,Coky Giedroyc,1962,\N,director,"tt1778108,tt4193072,tt5285494,tt6538034"
+nm0318448,David Giles,1926,2010,director,"tt0061253,tt0069639,tt0086667,tt0062857"
+nm0322146,Robert Glatzer,1932,2010,director,tt0061265
+nm0322900,Michael Gliona,1943,1992,director,"tt0086793,tt0072559,tt0043229,tt0044265"
+nm0329066,Edward Goodman,1888,1962,director,tt0022574
+nm0340775,Marcel Griaule,1898,1956,director,"tt5643502,tt0210165,tt5643508"
+nm0341928,Igor Grigoryev,1944,\N,director,tt0483223
+nm0342713,Vitautas Grivickas,1925,1990,director,tt0217431
+nm0342911,László Grof,1891,1971,director,tt0174460
+nm0343926,Robert Ground,1921,2008,director,tt0062481
+nm0346752,Roberto Guidi,1890,1958,director,"tt0188894,tt0191994,tt0192277,tt0191797"
+nm0347796,George S. Gullette,1884,\N,director,"tt0183131,tt0183130"
+nm0348536,Artur Gural,1963,\N,director,"tt0112918,tt5720330,tt4746832"
+nm0353785,Stuart Hagmann,1942,\N,director,"tt0066822,tt0060009,tt0066415,tt0061277"
+nm0354432,Tibor Hajas,1946,1980,director,"tt0158395,tt0081254"
+nm0355134,Josef Halfen,1922,1984,director,"tt0267276,tt0249809,tt0199115,tt0249415"
+nm0356533,Richard Halliburton,1900,1939,director,tt0024178
+nm0359371,Herbert Hancock,1879,1942,director,tt0012383
+nm0362133,Marie Harder,1898,1936,director,tt0021082
+nm0368257,S.F. Hasnain,1912,1956,director,"tt0230413,tt0230720,tt0230897,tt0230140"
+nm0369518,Donald Hauser,1946,\N,director,"tt0258889,tt0251490"
+nm0369718,Zeev Havatzelet,1923,1962,director,tt0057132
+nm0373817,Béla Hegyi,1937,\N,director,tt0110540
+nm0378040,César Enríquez,1918,1998,director,"tt0191545,tt0187836,tt5086400,tt0370168"
+nm0379380,Iulian Hermeneanu,1923,\N,director,"tt9458138,tt0173325,tt0173033,tt0172250"
+nm0380975,Julius Herska,1859,1925,director,"tt0013708,tt1660528,tt1131595,tt1665989"
+nm0381892,Elly Heuss-Knapp,1881,1952,director,tt0177881
+nm0382360,Hans-Joachim Heyse,1929,2013,director,"tt1116761,tt0236549"
+nm0389991,Florica Holban,1928,1996,director,"tt0172095,tt0172603,tt0172087,tt0172266"
+nm0390467,Mike Holgate,1949,1992,director,"tt0098835,tt0057741,tt0096702,tt0086699"
+nm0394487,R.A. Hopwood,1903,1969,director,"tt10042428,tt0030979,tt0453219,tt10042388"
+nm0398614,Liubomir Hristov,1957,\N,director,"tt0425984,tt0282787"
+nm0398867,Bingliu Hu,1940,\N,director,"tt0346886,tt0342983,tt0133281,tt0207964"
+nm0401596,Pontus Hulten,1924,2006,director,"tt0130861,tt1333047,tt9482850,tt2025548"
+nm0401601,Bob Hultgren,1921,1970,director,"tt0165594,tt5266722,tt0057758,tt0197146"
+nm0405052,Hyeon-myeong Kim,1955,\N,director,tt0264340
+nm0406752,Hirokazu Ichimura,1925,1989,director,"tt0201768,tt0165387,tt3139128,tt3811292"
+nm0407058,Aleksandr Igishev,1940,\N,director,"tt0240232,tt0084742,tt1718952,tt0078434"
+nm0407743,Victor Iliu,1912,1968,director,"tt0046283,tt0154348,tt0048382,tt0044910"
+nm0409617,Marin Iorda,1901,1972,director,"tt0172535,tt0185223,tt0185317,tt0172138"
+nm0409828,J. Ian Irby,1975,\N,director,"tt0131462,tt0131595"
+nm0412095,Vitali Ivanov,1941,\N,director,"tt6106074,tt1688226,tt6109064,tt6144738"
+nm0430782,Joshiy,1952,\N,director,"tt0282629,tt0271816,tt0292142,tt0928191"
+nm0431289,Ranko Jovanovic,1883,1966,director,tt0238360
+nm0433496,Johannes Järegård,1956,\N,director,tt0173625
+nm0436367,Eddie Kamae,1927,2017,director,"tt0270081,tt2498580,tt2498662,tt2498748"
+nm0437709,Marek Kanievska,1948,\N,director,"tt0093407,tt0185091,tt0086904,tt0326828"
+nm0438572,Walter Kapps,1907,1975,director,"tt0157951,tt0197504,tt0171155,tt0195389"
+nm0439669,Nils Karlsson,1930,\N,director,tt0269417
+nm0441501,Milton Katselas,1933,2008,director,"tt0068326,tt0070068,tt0073620,tt0080129"
+nm0448415,Elly Kenner,1948,\N,director,"tt0317914,tt0086971"
+nm0448892,Heinz Kenter,1896,1984,director,"tt0026384,tt5059892"
+nm0451780,Pavel Khomsky,1925,2016,director,"tt6171056,tt6315402,tt6099660,tt2942766"
+nm0457356,Károly Kiss,1923,1986,director,"tt10415070,tt0145902"
+nm0457713,Shaun Kitka,1979,\N,director,tt0210048
+nm0459528,Stanislav Klymenko,1954,2008,director,"tt0266095,tt5501024,tt5830198,tt3098234"
+nm0461158,Robert Knights,1942,\N,director,"tt0092428,tt0096814,tt0094955,tt0081898"
+nm0461328,Gerhard Knoop,1920,2009,director,"tt4793552,tt12333358,tt4710714,tt4762700"
+nm0464421,Anna Koltay,1989,\N,director,"tt7107680,tt13849232,tt11439306,tt9181088"
+nm0464437,Vitaliy Koltsov,1940,2006,director,"tt0073433,tt0263773,tt0251888,tt0324397"
+nm0464647,Theodor Komisarjevsky,1882,1954,director,"tt0009755,tt0019604"
+nm0465226,Toshikazu Kôno,1921,1984,director,"tt3416648,tt6021172,tt6021180,tt6021174"
+nm0466069,Mstislav Korchagin,1922,1953,director,"tt0046119,tt0047481"
+nm0466245,Imola Korhecz,1978,\N,director,"tt0275765,tt0275609"
+nm0466554,Vladimir Korolevitch,1895,1969,director,"tt10097398,tt0129179"
+nm0468239,Gedeon Kovacs,1931,\N,director,"tt0454413,tt4526678,tt1319158,tt0242211"
+nm0468569,Jacek Kowalczyk,1954,\N,director,tt0091122
+nm0469338,Vladimir Krajnev,1944,\N,director,"tt0459705,tt1503099,tt2032573,tt6398144"
+nm0471421,Robert Kirsch,1961,2001,director,"tt0381271,tt0282608,tt0284098,tt0311109"
+nm0471487,R. Krishnan,1909,1997,director,"tt0234700,tt0233650,tt0234959,tt0234066"
+nm0474511,Temuri Kuliani,1959,\N,director,tt0274818
+nm0474797,Dharam Kumar,1919,1993,director,"tt0214059,tt0214207,tt2761622,tt0176110"
+nm0475535,Sulejman Kupusovic,1951,2014,director,"tt0490332,tt0075591,tt1926957,tt1407818"
+nm0475715,Nikita Kurikhin,1922,1968,director,"tt0312428,tt0314947,tt0060744,tt0167346"
+nm0476956,Boris Kvashnev,1948,\N,director,"tt0103668,tt5790510,tt13840234,tt14577022"
+nm0477759,Judit Kóthy,1950,\N,director,"tt28119127,tt0148548"
+nm0481552,Jalmari Lahdensuo,1880,1931,director,tt0016231
+nm0482518,Valérie Lalonde,1947,\N,director,"tt0270025,tt0454518,tt0265355,tt0265635"
+nm0486419,Michael Langham,1919,2011,director,"tt0079379,tt0341777,tt0225087,tt0159876"
+nm0490082,Gray Latham,1866,\N,director,"tt0220041,tt0229277,tt0229359"
+nm0491557,Eugène Lauste,1857,1935,director,"tt0229277,tt0229359"
+nm0493721,Christian Lazarescu,1964,\N,director,tt0192733
+nm0497702,Kwang-hoon Lee,1959,\N,director,"tt0377633,tt0140968,tt0298493,tt0293844"
+nm0500799,Danilo Lejardi,1947,\N,director,tt0179557
+nm0501865,György Lengyel,1936,\N,director,"tt18673626,tt18566318,tt4118206,tt13669276"
+nm0505528,Joseph Levigard,1903,1931,director,"tt0020418,tt0365195,tt0019713,tt0020383"
+nm0508876,Rein Liblic,1952,2006,director,"tt5495796,tt0352429,tt0310330,tt0194377"
+nm0511602,Gustaf Linden,1875,1936,director,"tt0001717,tt8666800,tt0235364,tt0001380"
+nm0511718,John-Lennart Linder,1911,2009,director,tt0037291
+nm0513481,Atilio Lipizzi,1867,\N,director,"tt0200005,tt0199515"
+nm0516493,Victor Lobl,1940,\N,director,"tt0112178,tt0176357,tt0086822,tt0106145"
+nm0519801,Faust Lopatinsky,1899,1937,director,"tt11990438,tt13545156,tt0017513,tt21416262"
+nm0525711,Edo Lukman,1949,\N,director,"tt0391866,tt0764232,tt0224190"
+nm0526553,Oliver Lundquist,1916,2008,director,tt0036512
+nm0529551,Thierry Lécuyer,1957,\N,director,"tt8037106,tt0168432"
+nm0529969,Luis López Varona,1968,\N,director,"tt0115904,tt0240508,tt0240399"
+nm0531751,Hettie Macdonald,1962,\N,director,"tt0115640,tt0436992,tt2577192,tt2232345"
+nm0534391,Robert Roy MacVeigh,1955,1992,director,tt0106755
+nm0537361,Kenzô Maihara,1961,\N,director,"tt3786488,tt9033440,tt1526067,tt0997404"
+nm0538467,Vladimir Makedonskiy,1940,\N,director,"tt0308422,tt0175925,tt0108013,tt2074470"
+nm0538538,Mukadas Makhmudov,1926,1991,director,"tt0089403,tt0294526,tt0175057,tt0312454"
+nm0541921,Datta Mane,1922,1980,director,"tt0238240,tt0238495,tt0238365,tt0238637"
+nm0552726,Marcel Martin,1942,\N,director,"tt0341800,tt0220493,tt0270313"
+nm0554408,Sergey Martyanov,1954,\N,director,"tt1527632,tt0300351,tt0100832"
+nm0554867,Jorge Martínez Isaac,1923,\N,director,tt0258090
+nm0556447,John Nevil Maskelyne,1839,1917,director,"tt13905732,tt0193339,tt2144330"
+nm0559597,Hiroki Matsuno,1925,\N,director,"tt10168524,tt0203635"
+nm0567351,John L. McCutcheon,1883,1953,director,"tt0484606,tt0015057,tt0403293,tt0014250"
+nm0575984,Natalya Medyuk,1946,\N,director,tt0151230
+nm0576850,Bob Meillon,1943,2012,director,"tt0094481,tt0082201,tt0081875,tt0086689"
+nm0581779,Titus Mesaros,1925,2006,director,"tt0136400,tt0172085,tt0172588,tt0140503"
+nm0583444,Franziska Meyer Price,1962,\N,director,"tt3954222,tt0312097,tt1801809,tt1792646"
+nm0589929,Brian Mills,1933,2006,director,"tt0053494,tt1767257,tt0163939,tt0072489"
+nm0592551,Lev Mirsky,1925,1996,director,"tt0177880,tt0190859,tt5598144,tt0414640"
+nm0593889,Anthony Mithradas,1913,2017,director,"tt0214504,tt26742893,tt26741410,tt15083794"
+nm0598163,Sergio Moniz,1935,\N,director,"tt0193055,tt0059614,tt0193471"
+nm0598549,Paul Monroe,1910,1987,director,"tt0042168,tt0143077,tt0042117"
+nm0600503,Laurence Moody,1948,\N,director,"tt0068069,tt0088621,tt0334874,tt8514236"
+nm0603050,Edward A. Morange,1865,1955,director,tt0004037
+nm0606781,Martin Morris,1936,2022,director,"tt0185408,tt0080293,tt0283244"
+nm0607940,Cavendish Morton,1874,1939,director,tt0006471
+nm0608384,Ion Moscu,1926,2009,director,"tt0172084,tt0172167,tt0172864,tt0172200"
+nm0609678,Alfred Moul,1852,1924,director,tt0000121
+nm0610798,Mariya Muat,1951,\N,director,"tt4146004,tt0374349,tt1293812,tt3110614"
+nm0611581,Saumyen Mukherji,1915,\N,director,"tt0245408,tt0155972,tt0244972,tt0245073"
+nm0612752,Ducho Mundrov,1920,2012,director,"tt0151249,tt0253488,tt0309776,tt0172322"
+nm0613606,Shinobu Murata,1950,\N,director,"tt5471744,tt8182604,tt0298136,tt0190368"
+nm0615480,Murugadasa,1900,\N,director,"tt0245310,tt0245349,tt0245002,tt0245264"
+nm0616713,Frank Myers,1909,\N,director,tt0141563
+nm0617038,Georgi Mylnikov,1937,2000,director,tt0237529
+nm0621265,A. Narayan,1900,1939,director,"tt0247373,tt0247721,tt0247464,tt0247463"
+nm0621872,Boris Nashchekin,1938,1993,director,tt0237590
+nm0624412,Dinu Negreanu,1917,2004,director,"tt0154125,tt0137159,tt0155097,tt0154948"
+nm0627561,Valentin Nevzorov,1918,1961,director,"tt3493842,tt0049149"
+nm0631407,Gleb Nifontov,1922,1991,director,"tt0146363,tt3069768"
+nm0631714,Oleg Nikitin,1946,\N,director,"tt0082860,tt5476268,tt0264095"
+nm0633721,Roberto Nobre,1903,1969,director,tt0015676
+nm0637450,Jan Nowina-Przybylski,1902,1938,director,"tt0025476,tt0027231,tt0027897,tt0029065"
+nm0638267,Erich Nussbaum,1934,2011,director,"tt0172251,tt0173177,tt0172108,tt0172197"
+nm0639069,Antal Németh,1903,1968,director,tt0037036
+nm0642610,John O'Shaughnessy,1907,1985,director,tt0221565
+nm0647849,Ilya Olshvanger,1923,1979,director,"tt0059493,tt0062508,tt1779836"
+nm0659549,S. Panju,1915,1984,director,"tt0233650,tt0234959,tt0234066,tt0234700"
+nm0664147,Henry-Alexandre Parys,1901,\N,director,"tt0259071,tt0258808,tt0263799,tt0263823"
+nm0664565,Aleksandr Pashovkin,1947,\N,director,"tt0231655,tt0275730"
+nm0665570,Pittamandalam Venktatachalapathy Pathy,1906,1961,director,"tt0251318,tt0251028,tt0251136,tt0251117"
+nm0666612,Phil Patton,1910,1972,director,tt0135558
+nm0670522,Leonard Peikoff,1933,\N,director,"tt11366726,tt0118662"
+nm0672687,Perla Peragallo,1943,2007,director,tt0192951
+nm0674455,Valentin Perov,1936,\N,director,"tt0199793,tt0191415"
+nm0675968,Ted Peshak,1917,2005,director,"tt0257534,tt0257535,tt0257503,tt0257691"
+nm0677494,György Pethes,1934,1999,director,"tt0125110,tt11271718,tt6942050,tt8800342"
+nm0678209,Yuriy Petrov,1925,2012,director,"tt0347716,tt5038596"
+nm0678549,Ann-Margret Pettersson,1938,\N,director,"tt0200517,tt11011400"
+nm0679349,Barbara Pfeffer,1934,1999,director,tt0202930
+nm0680714,R.W. Phillips,1890,\N,director,"tt0235234,tt0235594,tt1454101,tt0235687"
+nm0686859,George Foster Platt,1866,1928,director,"tt0005493,tt0157650,tt0010061,tt0005551"
+nm0689918,Aleksei Polyakov,1940,2014,director,"tt5738652,tt0251918,tt5460406"
+nm0691241,Mircea Popescu,1926,\N,director,"tt0172363,tt0173499,tt0173303,tt0173590"
+nm0691488,Slavomir Popovici,1930,\N,director,"tt0173397,tt0173598,tt0172020,tt0172366"
+nm0692722,Lindsay Posner,1959,\N,director,"tt4106356,tt0298685,tt1610014"
+nm0695173,Raghupati Surya Prakash Naidu,1901,1956,director,"tt0254747,tt0254810,tt0254211,tt0254208"
+nm0700393,Chittajalu Pullayya,1898,1967,director,"tt0206877,tt0255459,tt0254982,tt0254999"
+nm0700572,Ratilal Hemchand Punatar,1913,\N,director,"tt0256042,tt0256230,tt0256064,tt0256172"
+nm0701414,Vladimir Pyavko,1941,2020,director,tt0262079
+nm0713622,Stanislav Razdorsky,1946,\N,director,"tt0103068,tt18988156"
+nm0714351,Carlos Rebolledo,1932,\N,director,"tt0070870,tt0077144,tt0089842,tt0195110"
+nm0716401,Dan Regan,1977,\N,director,tt0784889
+nm0718969,Oleg Remizov,1954,\N,director,"tt0094259,tt27470660"
+nm0718972,Aleksandra Remizova,1903,1989,director,"tt5885136,tt0067472,tt6150176,tt6190266"
+nm0719886,Nicholas Renton,1946,\N,director,"tt0215364,tt0437013,tt1025103,tt0313544"
+nm0726813,Fernand Rigot,1894,1981,director,"tt0282104,tt0281934"
+nm0729109,Ray Rivas,1936,\N,director,"tt0076405,tt0244276,tt0365874"
+nm0733542,Bernardo Roca Rey,1918,\N,director,"tt0185449,tt1561435"
+nm0735435,Martin Rodriguez,1967,\N,director,"tt0483307,tt0206694"
+nm0738578,Gary Roma,1965,\N,director,"tt0145162,tt0145419"
+nm0740107,Wincenty Ronisz,1934,2017,director,tt0177300
+nm0742691,Gertrude Rosenstein,1926,2004,director,tt0197146
+nm0752948,Anatoli Rybakov,1919,1962,director,"tt0046566,tt0053406,tt0049133,tt0176068"
+nm0753541,Janusz Rzeszewski,1930,2007,director,"tt0093547,tt0077650,tt0082751,tt0091389"
+nm0756322,Ion Sahighian,1897,1965,director,"tt0173180,tt0163760,tt0173197,tt0164118"
+nm0762667,Eugene Sanger,1871,1946,director,tt0233821
+nm0762780,Aleksandr Sanin,1869,1956,director,"tt0219645,tt0228885,tt0013501"
+nm0765456,Igor Sorokhtin,1898,1959,director,"tt21997808,tt0129009,tt0234153,tt21989630"
+nm0768150,David H. Sawyer,1936,1995,director,tt0064773
+nm0768939,Joseph L. Scanlan,1929,2020,director,"tt0092455,tt0112111,tt0096684,tt0292515"
+nm0775088,Charles Schram,1851,1909,director,"tt0272915,tt0272452"
+nm0777682,Heinz Wilhelm Schwarz,1927,2004,director,"tt0336243,tt0174411,tt0059990,tt1278155"
+nm0779212,Harold Scott,1935,2006,director,tt0159876
+nm0782262,Kai Sehr,1965,\N,director,"tt1851905,tt1733581,tt0250750"
+nm0783091,Inessa Seleznyova,1929,2006,director,"tt0090504,tt0069076,tt0141705,tt0334657"
+nm0784006,Hiralal Sen,1868,1917,director,"tt0332568,tt0332731,tt0332730,tt0332633"
+nm0784037,Satu Sen,1902,1972,director,"tt0026681,tt0390974,tt0367467,tt0274790"
+nm0785142,Rollan Sergienko,1936,2020,director,"tt0312457,tt0261275,tt26733698,tt0319700"
+nm0785596,Nina Serrano,1934,\N,director,"tt0376573,tt0066614"
+nm0787222,Boris Shadurskiy,1948,\N,director,tt5247430
+nm0787975,Will Shanahan,1961,\N,director,"tt20419666,tt0213345,tt3258570"
+nm0792926,Vladimir Shevchenko,1929,1987,director,"tt0264765,tt0230650,tt7169060,tt7154796"
+nm0795811,Robert H. Shumaker,1933,\N,director,"tt0176093,tt0427901,tt21847060,tt0094416"
+nm0795982,Solomon Shuster,1934,1995,director,"tt0309762,tt0129031,tt0263806,tt0230756"
+nm0796259,Gheorghe Sibianu,1927,2007,director,"tt0172587,tt0139685,tt0174043,tt0134774"
+nm0797924,Roxana Silbert,1966,\N,director,"tt0177767,tt3198920,tt0297643"
+nm0814118,George Somnes,1887,1956,director,"tt0025972,tt0024065,tt0024333,tt0024685"
+nm0817811,Richard Spence,1957,\N,director,"tt0297626,tt0094525,tt0116102,tt0174982"
+nm0821500,Walter Richard Stahl,1887,\N,director,"tt0008050,tt0185764"
+nm0821641,Chuck Staley,1931,\N,director,tt0075886
+nm0827837,Rudi Stern,1936,2006,director,tt0263417
+nm0828666,Norman L. Stevens,1893,1955,director,tt0135487
+nm0832948,Percy Stow,1876,1919,director,"tt1228723,tt0458019,tt0183426,tt0285307"
+nm0834731,Thomas Strobl,1967,\N,director,"tt0157735,tt0157861,tt0158341,tt0157265"
+nm0836034,George Ernest Studdy,1878,1948,director,"tt0139896,tt4185436,tt0140628,tt0139978"
+nm0839351,Masahisa Sunohara,1906,\N,director,"tt0867476,tt7109198,tt2513640,tt0362240"
+nm0839559,Stefan Surchadzhiev,1912,1965,director,"tt0346074,tt0312902,tt0344765,tt0342533"
+nm0844282,Karl Sztollar,1900,\N,director,tt0042633
+nm0846429,Gene Taft,1939,1987,director,tt0086974
+nm0846864,Aleksandr Tairov,1885,1950,director,tt0210856
+nm0851305,Dave Tatsuno,1913,2006,director,"tt0785046,tt0038180"
+nm0853472,Jean-Michel Tchissoukou,1942,\N,director,"tt0065881,tt0080517,tt0084283"
+nm0856250,Richard Teschner,1879,1948,director,tt0019198
+nm0858092,Georg Thieß,1914,2001,director,"tt0163682,tt0437546"
+nm0858699,David Thomas,1976,\N,director,tt0303636
+nm0859691,Harry Thomashefsky,1895,1993,director,tt0026010
+nm0863822,Ion Timus,1890,1969,director,tt0172759
+nm0863861,André Tinchant,1896,\N,director,tt0020558
+nm0865138,Christopher Todd,1961,1992,director,tt0094512
+nm0866455,Anton Tomasic,1937,\N,director,"tt0152067,tt0114218,tt0249664,tt0843998"
+nm0869086,Naoko Tosa,1961,\N,director,"tt5423426,tt5423410,tt5423412,tt5423406"
+nm0869624,Kitia Toure,1956,2012,director,tt0087077
+nm0873605,Vladlen Troshkin,1930,2015,director,tt0191844
+nm0881910,Carlos Eduardo Uribe,1944,\N,director,tt0201433
+nm0882127,Henri d' Ursel,1900,1974,director,tt0263857
+nm0884732,Danny Walin,1940,2012,director,"tt6811208,tt2326779,tt0077108,tt1600249"
+nm0887848,Karel Van Rijn,1877,1953,director,tt0222400
+nm0891959,Giuseppe Veggezzi,1929,\N,director,tt0276499
+nm0893352,Miguel Ventura,1984,\N,director,tt0203069
+nm0894554,Per Verner-Carlsson,1925,2004,director,tt0170715
+nm0899151,Mikhail Vinyarsky,1912,1977,director,"tt0357843,tt0048704,tt5091828"
+nm0902304,Arthur von Gerlach,1876,1925,director,"tt0016563,tt0013728"
+nm0903609,Maarten de Vos,1941,2012,director,tt0070462
+nm0905699,Doug Wager,1949,\N,director,tt0211157
+nm0906102,S.O. Wagner,1902,1975,director,tt0271922
+nm0906859,Tina Wakerell,1930,2017,director,"tt0165054,tt1058784,tt0159194,tt0059963"
+nm0906924,Maria Walbom,1966,\N,director,tt0230942
+nm0913230,Dave Warwick,1923,\N,director,"tt0204112,tt0053494,tt0315707,tt2447712"
+nm0915338,Marquis de Wavrin,1888,1971,director,"tt0258870,tt0259000,tt0258681,tt0258498"
+nm0922192,Langdon West,1886,1947,director,"tt0421955,tt1183294,tt0340267,tt0005970"
+nm0923789,Cliff Wheeler,1894,1979,director,"tt0447192,tt0018701,tt0132297,tt0018786"
+nm0926669,F. Stuart Whyte,1877,1947,director,"tt0357213,tt0016196"
+nm0932997,Andrew P. Wilson,1886,\N,director,"tt0323148,tt0312557,tt0323827,tt0254323"
+nm0937656,Alfred Wolf,1915,2004,director,tt0151421
+nm0940400,William Woodman,1932,1995,director,"tt0072559,tt0176357,tt0056752,tt0827189"
+nm0944471,Xiangyuan Yu,1947,\N,director,"tt2109086,tt6448718,tt5862362,tt0357175"
+nm0945137,Mikhail Yakzhen,1949,\N,director,"tt0263904,tt0103318"
+nm0946389,James P. Yarbrough,1918,1962,director,"tt0052463,tt0055661,tt0042123,tt0042141"
+nm0947653,Vladimir Erofeyev,1898,1940,director,tt0129286
+nm0947671,Mikhail Yershov,1924,2004,director,"tt0144111,tt0130223,tt0351563,tt0263196"
+nm0953946,Natalya Zbandut,1946,2010,director,"tt0258968,tt3054268,tt0437355,tt0239434"
+nm0958449,Steve Zuckerman,1947,\N,director,"tt0108778,tt0131685,tt0094455,tt0088526"
+nm0971655,Philip Minor,1927,1991,director,tt0078626
+nm0994256,Sai Balaji,1964,2021,director,"tt7889170,tt1575680,tt0285845"
+nm0994285,Dirk B.G. Driksen,1937,2006,director,tt0285510
+nm0994311,T.J. Gobbett,1882,1915,director,"tt0285064,tt0284955,tt0295533,tt2063574"
+nm0994377,Frantisek Mudra,1933,2004,director,"tt0284795,tt4662690,tt2195319,tt6352402"
+nm0996540,Nikolaus Brender,1949,\N,director,"tt0326851,tt1039883,tt0286405,tt6453112"
+nm1001319,Alberto Carlo Lolli,1876,\N,director,"tt0922904,tt0794312,tt1175241,tt0922993"
+nm10071364,Alois Hajda,1928,2021,director,"tt14240938,tt15204780,tt8892150"
+nm1008310,Eldora Traykova,1956,\N,director,"tt0461824,tt5353138,tt13620070,tt0470519"
