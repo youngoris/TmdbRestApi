@@ -2,6 +2,7 @@ from rest_framework import serializers
 from rest_framework.exceptions import ValidationError
 from .models import Director, Actor, Genre, IMDBEntry, Movies
 
+# IndexField is a custom field that returns the index of a movie in a list of movies.
 class IndexField(serializers.Field):
     def to_representation(self, value):
         movies_list = self.context.get('movies_list', [])
