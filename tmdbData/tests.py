@@ -34,7 +34,7 @@ class MoviePostTest(TestCase):
         self.client = APIClient()
         self.imdb_entry = IMDBEntry.objects.create(imdb_id="tt0000001")
 
-        # 创建测试用的 Genre, Actor, 和 Director 实例
+        # Create Genre, Actor, and Director instances for testing
         self.genre_action = Genre.objects.create(name="Action")
         self.genre_adventure = Genre.objects.create(name="Adventure")
         self.genre_comedy = Genre.objects.create(name="Comedy")
@@ -43,7 +43,7 @@ class MoviePostTest(TestCase):
         self.actor_will = Actor.objects.create(name="Will Smith")
         self.director_spielberg = Director.objects.create(name="Steven Spielberg")
 
-        # 更新 movie_data 以使用这些实例
+        # Update movie_data to use these instances
         self.movie_data = {
             "tmdb_id": 8888,
             "title": "A New Movie",
@@ -66,9 +66,6 @@ class MoviePostTest(TestCase):
         print("Status Code:", response.status_code)
         print("Response Data:", response.data)
         self.assertEqual(response.status_code, status.HTTP_201_CREATED)
-
-
-
 
 class MoviesApiTestCase(TestCase):
     """ Test suite for the api views """
