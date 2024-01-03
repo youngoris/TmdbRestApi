@@ -142,8 +142,6 @@ with open(data_directors) as csv_file:
                 director.known_for_titles.add(imdb_entry)
                 if created:
                     imdb_entries_set.add(imdb_entry)
-# Bulk creation of new directors.
-Director.objects.bulk_create(directors_list)
 
 # Loading genres and creating Genre instances.
 with open(data_genres) as csv_file:
